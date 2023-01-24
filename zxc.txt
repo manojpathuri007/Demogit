@@ -1,0 +1,15 @@
+Day1
+Version Control system (VCS)/Source Control Management (SCM)
+Understanding Git and GitHub
+Basic git commands
+Init, add, status, commit, checkout, branch, merge, rebase, clone, pull, fetch, push
+Merge conflicts
+Ssh based authentication/ Pat authenticaton.
+Understanding Pull requests
+Tasks
+Create a github repository, initialize the repo with Readme.md file (which come by default) and Clone to your local and setup
+Create develop branch and perform git operation by creating and updating the files and push to develop branch in remote (not main branch)
+Create a Pull Request (PR) to the main branch and approve and merge the changes to the main repo.
+1  sudo usermod demo1 -s /bin/bash
+    2  exit
+    3  sudo usermod demo1 -s /bin/bash
